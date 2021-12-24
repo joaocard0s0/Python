@@ -1,0 +1,3 @@
+para escrever é só digitar a variavel.write(e depois colocar o que quer aqui)
+Agora eu posso escrever sem fechar
+eu usei o a de append e o with open(x.txt, a) as x

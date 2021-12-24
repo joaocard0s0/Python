@@ -1,0 +1,6 @@
+Total alunos organicos : 226
+Total alunos anuncios : 274
+Total alunos por site : 73
+Total alunos por youtube : 155
+Total alunos por intagram : 22
+Total alunos por facebook: 2
